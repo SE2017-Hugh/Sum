@@ -14,17 +14,14 @@ expires_in
 2592000
 
 requestURL£º
-1.ÏàÍ¬Í¼¼ìË÷-Èë¿â£º
-https://aip.baidubce.com/rest/2.0/realtime_search/same_hq/add
-
-2.ÏàÍ¬Í¼¼ìË÷¡ª¼ìË÷:
-https://aip.baidubce.com/rest/2.0/realtime_search/same_hq/search
-
-3.ÏàÍ¬Í¼¼ìË÷¡ªÉ¾³ı:
-https://aip.baidubce.com/rest/2.0/realtime_search/same_hq/delete
-
-4.ÏàËÆÍ¼¼ìË÷-Èë¿â£º
+1.ÏàËÆÍ¼¼ìË÷-Èë¿â£º
 https://aip.baidubce.com/rest/2.0/image-classify/v1/realtime_search/similar/add
+
+2.ÏàËÆÍ¼¼ìË÷¡ª¼ìË÷:
+https://aip.baidubce.com/rest/2.0/image-classify/v1/realtime_search/similar/search
+
+3.ÏàËÆÍ¼¼ìË÷¡ªÉ¾³ı:
+https://aip.baidubce.com/rest/2.0/image-classify/v1/realtime_search/similar/delete
 
 params
 image=Í¼Æ¬µÄbase64±àÂë&top_num=5
